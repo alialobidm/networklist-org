@@ -43231,13 +43231,13 @@
     "network": "mainnet",
     "networkId": 33139,
     "nativeCurrency": {
-        "name": "APE",
-        "symbol": "APE",
-        "decimals": 18,
-        "logo": "https://hk.tpstatic.net/token/tokenpocket-1729491264197.jpeg"
+      "name": "APE",
+      "symbol": "APE",
+      "decimals": 18,
+      "logo": "https://hk.tpstatic.net/token/tokenpocket-1729491264197.jpeg"
     },
     "rpc": [
-        "https://apechain.calderachain.xyz/http"
+      "https://apechain.calderachain.xyz/http"
     ],
     "infoURL": "https://apechain.com/",
     "explorers": [
@@ -43248,67 +43248,67 @@
         "icon": "https://hk.tpstatic.net/token/tokenpocket-1729482969925.png"
       }
     ],
-     "app_resource": {
-        "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1729482969925.png",
-        "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1729482978504.png",
-        "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1729482986993.png",
-        "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1729482994467.png"
-      }
-    },
-    {
-      "name": "Morph",
-      "chainId": 2818,
-      "shortName": "morph",
-      "chain": "Morph",
-      "network": "mainnet",
-      "networkId": 2818,
-      "nativeCurrency": {
-          "name": "Ethereum",
-          "symbol": "ETH",
-          "decimals": 18,
-          "logo": "https://hk.tpstatic.net/token/tokenpocket-1617349051539.png"
-      },
-      "rpc": [
-          "https://rpc.morphl2.io"
-      ],
-      "infoURL": "https://www.morphl2.io/",
-      "explorers": [
-        {
-          "name": "morph explorer",
-          "url": "https://explorer.morphl2.io",
-          "standard": "EIP3091",
-          "icon": "https://hk.tpstatic.net/token/tokenpocket-1729590965553.png"
-        }
-      ],
-       "app_resource": {
-          "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1729590965553.png",
-          "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1729590979115.png",
-          "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1729590988846.png",
-          "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1729590999996.png"
-        }
-    },
-    {
-      "name": "exsat",
-      "chainId": 7200,
-      "shortName": "exsat",
-      "chain": "exsat",
-      "network": "mainnet",
-      "networkId": 7200,
-      "nativeCurrency": {
-          "name": "Bitcoin",
-          "symbol": "BTC",
-          "decimals": 18,
-          "logo": "https://hk.tpstatic.net/token/tokenpocket-1617347227526.png"
-      },
-      "rpc": [
-          "https://evm.exsat.network/"
-      ],
-      "explorers": [
-        {
-          "name": "exsat explorer",
-          "url": "https://scan.exsat.network/",
-          "standard": "EIP3091",
-        }
-      ],
+    "app_resource": {
+      "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1729482969925.png",
+      "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1729482978504.png",
+      "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1729482986993.png",
+      "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1729482994467.png"
     }
+  },
+  {
+    "name": "Morph",
+    "chainId": 2818,
+    "shortName": "morph",
+    "chain": "Morph",
+    "network": "mainnet",
+    "networkId": 2818,
+    "nativeCurrency": {
+      "name": "Ethereum",
+      "symbol": "ETH",
+      "decimals": 18,
+      "logo": "https://hk.tpstatic.net/token/tokenpocket-1617349051539.png"
+    },
+    "rpc": [
+      "https://rpc.morphl2.io"
+    ],
+    "infoURL": "https://www.morphl2.io/",
+    "explorers": [
+      {
+        "name": "morph explorer",
+        "url": "https://explorer.morphl2.io",
+        "standard": "EIP3091",
+        "icon": "https://hk.tpstatic.net/token/tokenpocket-1729590965553.png"
+      }
+    ],
+    "app_resource": {
+      "ic_chain_select": "https://hk.tpstatic.net/token/tokenpocket-1729590965553.png",
+      "ic_chain_unselect": "https://hk.tpstatic.net/token/tokenpocket-1729590979115.png",
+      "ic_chain_unselect_dark": "https://hk.tpstatic.net/token/tokenpocket-1729590988846.png",
+      "ic_home_logo": "https://hk.tpstatic.net/token/tokenpocket-1729590999996.png"
+    }
+  },
+  {
+    "name": "exsat",
+    "chainId": 7200,
+    "shortName": "exsat",
+    "chain": "exsat",
+    "network": "mainnet",
+    "networkId": 7200,
+    "nativeCurrency": {
+      "name": "Bitcoin",
+      "symbol": "BTC",
+      "decimals": 18,
+      "logo": "https://hk.tpstatic.net/token/tokenpocket-1617347227526.png"
+    },
+    "rpc": [
+      "https://evm.exsat.network/"
+    ],
+    "explorers": [
+      {
+        "name": "exsat explorer",
+        "url": "https://scan.exsat.network/",
+        "standard": "EIP3091",
+      }
+    ]
+  }
 ]
