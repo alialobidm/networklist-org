@@ -43307,7 +43307,7 @@
       {
         "name": "exsat explorer",
         "url": "https://scan.exsat.network/",
-        "standard": "EIP3091",
+        "standard": "EIP3091"
       }
     ]
   }
