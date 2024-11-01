@@ -1469,7 +1469,10 @@
       "symbol": "FLR",
       "decimals": 18
     },
-    "rpc": [],
+    "rpc": [
+      "https://rpc.ankr.com/flare",
+      "https://flare.rpc.thirdweb.com"
+    ],
     "faucets": [],
     "infoURL": "https://flare.xyz"
   },
