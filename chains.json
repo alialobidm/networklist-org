@@ -43321,5 +43321,28 @@
         "standard": "EIP3091"
       }
     ]
+  },
+  {
+    "name": "SlerfChain Mainnet",
+    "chainId": 918,
+    "shortName": "SlerfChain",
+    "chain": "SlerfChain",
+    "network": "mainnet",
+    "networkId": 918,
+    "nativeCurrency": {
+      "name": "WSlerf",
+      "symbol": "WSlerf",
+      "decimals": 18
+    },
+    "rpc": [
+      "https://rpc.slerfchain.xyz"
+    ],
+    "explorers": [
+      {
+        "name": "slerfchain explorer",
+        "url": "https://scan.slerfchain.xyz",
+        "standard": "EIP3091"
+      }
+    ]
   }
 ]
